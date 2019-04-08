@@ -31,7 +31,10 @@ For the training procedure, I used Adam optimizer with a initial learning rate o
 
 ### Installation
 
-For testing, run
+For testing, 
+Download the model from [here](https://uniofmora-my.sharepoint.com/:u:/g/personal/140247b_uom_lk/EfuLWiBJx7FHg39l1O2zdcQB5nP0rFoIwPRJkQTqdIlTLQ?e=2Xkskb)
+
+Run
 ```bash
 python multilabel_testing.py
 ```
