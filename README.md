@@ -23,7 +23,7 @@ Pascal VOC 2012 dataset can be downloaded via terminal.
 ```
 To create the test data set and to get a minimize version of the dataset for the analyzer and thresholding run,
 ```bash
-python multilabel_testing.py
+python read_data.py
 ```
 ## Neural Network Model
 
